@@ -66,42 +66,13 @@ VS code
 
 ## **Usage** 🛠️  
 **How do users interact with the project?**  
-- Provide examples, screenshots, or even GIFs to demonstrate usage.  
-
----
-
-## **Contributing** 🤝  
-We welcome contributions! 🎉  
-
-To contribute:  
-1. Fork the repository.  
-2. Create a feature branch:  
-    ```bash  
-    git checkout -b feature-name  
-    ```  
-3. Commit your changes:  
-    ```bash  
-    git commit -m "Add new feature"  
-    ```  
-4. Push to the branch:  
-    ```bash  
-    git push origin feature-name  
-    ```  
-5. Open a pull request.  
-
-For more details, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.  
-
----
-
-## **License** 📄  
-This project is licensed under the [LICENSE NAME](LICENSE).  
-*Include a link to the LICENSE file.*  
+ ![alt text](bot.png) 
 
 ---
 
 ## **Acknowledgements** 🙌  
-- Thank you to [Contributor or Organization Name] for [specific contribution].  
-- Shoutout to the [Framework/Library] team for their amazing tool.  
+- Thank you to [Prakash choudhary andPiyush Purohit] for [specific contribution].  
+- Shoutout to the [Bootstrap] team for their amazing tool.  
 
 ---
 
@@ -110,7 +81,7 @@ Have questions or feedback? Feel free to open an issue or reach out via [contact
 
 ---
 
-✨ Made with ❤️ by [Your Name/Team Name]  
+✨ Made with ❤️ by [Nikhil Banthia]  
 
 ---
 
